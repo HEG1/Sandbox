@@ -12,11 +12,6 @@
     font-size: 40px;
 }
 
-:root {
-    --header-title:  "Překladatelskej Shit";
-    --header-subtitle:  "";
-}
-
 #more-options-button  {
     background-color: rgb (157, 2, 4) !important;
 }
