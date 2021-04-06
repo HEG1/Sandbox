@@ -1,3 +1,9 @@
+@import url("https://use.typekit.net/rit0pba.css");
+
+:root {
+    --body-font: proxima-nova,Verdana,Geneva,sans-serif;
+}
+
 #header {
     height: 140px;
     position: relative;
